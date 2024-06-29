@@ -48,7 +48,7 @@ Generate a random starting layout of living cells to kickstart the simulation. T
 
 - Clone the repository by opening your terminal and navigating to the directory where you want to clone the repository. Then, run the following command:
 ```bash
-  git clone https://github.com/t-kadre/Game-of-Life
+  git clone https://github.com/isharoy8777/Game-of-life
 ```
 
 - Navigate to the App Directory:
@@ -72,7 +72,7 @@ Generate a random starting layout of living cells to kickstart the simulation. T
 - Glider Gun: a pattern with a main part that repeats periodically and that also periodically emits gliders
 
 
-https://github.com/t-kadre/Game-of-Life/assets/106656556/643e8e1a-d912-4ec8-bf65-e9efb626d5fc
+https://github.com/isharoy8777/Game-of-Life/assets/106656556/643e8e1a-d912-4ec8-bf65-e9efb626d5fc
 
 
 
@@ -81,7 +81,7 @@ https://github.com/t-kadre/Game-of-Life/assets/106656556/643e8e1a-d912-4ec8-bf65
 
 
 
-https://github.com/t-kadre/Game-of-Life/assets/106656556/81547b09-98f0-4eab-836d-b90c1952a36d
+https://github.com/isharoy8777/Game-of-life/assets/106656556/81547b09-98f0-4eab-836d-b90c1952a36d
 
 
 
@@ -89,7 +89,7 @@ https://github.com/t-kadre/Game-of-Life/assets/106656556/81547b09-98f0-4eab-836d
 
 
 
-https://github.com/t-kadre/Game-of-Life/assets/106656556/df3fbf8d-4506-473d-8d42-ed440b2d994b
+https://github.com/isharoy8777/Game-of-life/assets/106656556/df3fbf8d-4506-473d-8d42-ed440b2d994b
 
 
 
